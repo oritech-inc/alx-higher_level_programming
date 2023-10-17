@@ -1,0 +1,2 @@
+--Sql script that lists all databases
+show databases;
